@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="f87873894fd71300b1da2b8ca310c71b" sys_domain="global" table="x_240425_dxcapp_approval_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>f478ff894fd71300b1da2b8ca310c7c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>fc78ff894fd71300b1da2b8ca310c7c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>7078ff894fd71300b1da2b8ca310c7c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>f078ff894fd71300b1da2b8ca310c7c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approved_with_condition</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>7478ff894fd71300b1da2b8ca310c7c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>f478ff894fd71300b1da2b8ca310c7c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>condition</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>7878ff894fd71300b1da2b8ca310c7c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>f878ff894fd71300b1da2b8ca310c7c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>exchange_rate</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>7c78ff894fd71300b1da2b8ca310c7c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lbu</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>fc78ff894fd71300b1da2b8ca310c7c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>7078ff894fd71300b1da2b8ca310c7c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>gbp</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>f078ff894fd71300b1da2b8ca310c7c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>local_currency</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>7478ff894fd71300b1da2b8ca310c7c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>f478ff894fd71300b1da2b8ca310c7c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>7878ff894fd71300b1da2b8ca310c7c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dxc_title</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>f878ff894fd71300b1da2b8ca310c7c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dxc_web_link</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>7c78ff894fd71300b1da2b8ca310c7c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>fc78ff894fd71300b1da2b8ca310c7c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>leader_agree</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>7078ff894fd71300b1da2b8ca310c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>f078ff894fd71300b1da2b8ca310c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>level_of_approval</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>7478ff894fd71300b1da2b8ca310c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>f478ff894fd71300b1da2b8ca310c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>next_approver</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>7878ff894fd71300b1da2b8ca310c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>please_specify</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>f878ff894fd71300b1da2b8ca310c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>7c78ff894fd71300b1da2b8ca310c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reviewing</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>fc78ff894fd71300b1da2b8ca310c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>submission_date</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>7078ff894fd71300b1da2b8ca310c7c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>27</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>f078ff894fd71300b1da2b8ca310c7c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sub_category</element>
+            <position>28</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>7478ff894fd71300b1da2b8ca310c7c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>submitted_by</element>
+            <position>29</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>f478ff894fd71300b1da2b8ca310c7c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_id>7878ff894fd71300b1da2b8ca310c7c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_240425_dxcapp_approval_request" sys_domain="global" view="Default view">f87873894fd71300b1da2b8ca310c71b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_240425_dxcapp_approval_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-13 08:28:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f87873894fd71300b1da2b8ca310c71b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_240425_dxcapp_approval_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DXC Approval Note" source="x_240425_dxcapp">ddfa57094f971300b1da2b8ca310c780</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DXC Approval Note">ddfa57094f971300b1da2b8ca310c780</sys_scope>
+            <sys_update_name>sys_ui_section_f87873894fd71300b1da2b8ca310c71b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-13 08:28:28</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
